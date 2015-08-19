@@ -1,0 +1,64 @@
+<html>
+<h1 style="text-align:center">Dwarf Fortress(矮人要塞)中文Wiki</h1>
+</html>
+----
+{{ :wiki:game_movie_miner.jpg?nolink |}}
+<html><p style="font-size:13px; line-height:2em;margin:0 auto 10px"></html>
+　　欢迎来到[[http://www.bay12games.com/dwarves/|Dwarf Fortress]] [[http://dfwiki.honorlee.me/|矮人要塞中文Wiki]]，这是一个为[[http://www.bay12games.com/dwarves/|"Dwarf Fortress"]]玩家提供用户指南、资料信息以及游戏建议的地方。矮人要塞是由[[http://www.bay12games.com/|Bay 12 Games]]开发的一个基于[[Windows]]、[[Linux]]和[[Mac]]等多操作系统平台下的[[Roguelike]]类游戏,，它有[[要塞]]和[[冒险]]两种游戏模式,不同的游戏模式都将会随机生成与众不同的独立世界（包括完整的[[地形]]、种类众多的[[生物]]以及各种各样的世界[[历史]]与[[传说]]）。当然，更少不了为战斗而生的恐怖生物和无处不在的以嗜酒与挖坑著称的小矮子们...[[矮人要塞|详细介绍]]
+<html>
+</p>
+<p style="font-size:13px; max-width:60em; margin:0 auto 10px auto;border:1px dashed #2F6FAB;padding:1em;color:black;background-color:#F9F9F9;line-height:1.3em;">
+</html>
+中文WIKI主要维护人员：
+[[Lamphare]]、[[Defdef‏‎]]、[[HonorLee]]……
+<html></p>
+<div style="font-size:13px; max-width:60em; margin:0 auto 10px auto;border:1px dashed #2F6FAB;color:black;padding:1em;background-color:#F9F9F9;line-height:2em;">
+<p style="padding:0 0 5px;border-bottom:1px #ccc dashed;margin:0"></html>DF最新版本下载：  
+[[http://b12.wimbli.com/df_34_11_win.zip|v0.34.11]]([[更新日志]])　　懒人包：[[http://dffd.wimbli.com/download.php?id=7622&f=PeridexisErrant+LNP+r45.zip|Lazy Newb Pack Advanced r45]]-[[LazyNewbPack|简介]]　　[[http://dffd.wimbli.com/download.php?id=5315&f=MasterworkDF+V4g.7z|Masterwork v.4g]]-[[MasterWork|简介]]<html></p>
+<p style="padding:5px 0 0;margin:0">
+Addons：</html>
+[[http://df.zweistein.cz/soundsense/soundSense_43_187.zip|SoundSense r43]] ([[http://df.zweistein.cz/soundsense/soundpack.zip|Soundpack]])-[[SoundSense|简介]]　
+[[http://dethware.org/dfhack/download/dfhack-0.34.11-r3-Windows.zip|DFHack r3]]-[[DFHack|简介]]　
+<html></p>
+</div>
+</html>
+----
+<html>
+<div style="max-width:62em;margin:0 auto">
+<table style="width:100%;text-align:center;line-height:2em;font-size:13px">
+<tr style="background-color:#F9F9F9;font-size:14px"><th colspan="6" style="text-align:center"><b>基础入门</b></th></tr>
+<tr>
+<td></html>[[矮人要塞|游戏介绍]]<html></td>
+<td></html>[[游戏模式(Mode)|游戏模式]]<html></td>
+<td></html>[[游戏界面]]<html></td>
+<td></html>[[按键操作]]<html></td>
+<td></html>懒人包( [[LazyNewbPack]] , [[MasterWork]] )<html></td>
+<td></html>[[MOD简介]]<html></td>
+</tr>
+</table>
+</div>
+<div style="max-width:62em;margin:0 auto">
+<table style="width:100%;text-align:center;font-size:13px">
+<tr style="background-color:#F9F9F9"><th colspan="5" style="text-align:center;font-size:14px"><b></html>[[游戏模式(Mode)]]<html></b></th></tr>
+<tr style="font-size:13px;background-color:#F9F9F9;text-align:center">
+<th colspan="2" style="text-align:center"></html>[[游戏模式(Mode)#要塞|要塞生存 (Dwarf Fortress)]]<html></th>
+<th colspan="2" style="text-align:center"></html>[[游戏模式(Mode)#冒险|冒险探索 (Adventurer)]]<html></th>
+<td></html>[[游戏模式(Mode)|历史传说 (Legends)]]<html></td>
+</tr>
+<tr>
+<td>第1行第1格</td>
+<td>第1行第2格</td>
+<td>第1行第3格</td>
+<td>第2行第3格</td>
+<td>第2行第3格</td>
+</tr>
+<tr>
+<td>第2行第1格</td>
+<td>第2行第2格</td>
+<td>第2行第3格</td>
+<td>第2行第3格</td>
+<td>第2行第3格</td>
+</tr>
+</table>
+</div>
+</html>

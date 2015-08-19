@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://dfwiki.honorlee.me/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://dfwiki.honorlee.me/feed.php">
+        <title>Dwarf Fortress(矮人要塞)中文Wiki</title>
+        <description></description>
+        <link>http://dfwiki.honorlee.me/</link>
+        <image rdf:resource="http://dfwiki.honorlee.me/lib/tpl/codowik-master/images/favicon.ico" />
+       <dc:date>2015-08-15T21:49:21+08:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?id=start&amp;rev=1438071914&amp;do=diff"/>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?id=%E7%9F%AE%E4%BA%BA%E8%A6%81%E5%A1%9E&amp;rev=1388414787&amp;do=diff"/>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?image=tradetime.jpg&amp;ns=&amp;rev=1388414137&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?image=mapselect.png&amp;ns=&amp;rev=1388407510&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?image=game_title.png&amp;ns=&amp;rev=1388407454&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://dfwiki.honorlee.me/doku.php?image=wiki%3Agame_movie_miner.jpg&amp;ns=wiki&amp;rev=1388379443&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://dfwiki.honorlee.me/lib/tpl/codowik-master/images/favicon.ico">
+        <title>Dwarf Fortress(矮人要塞)中文Wiki</title>
+        <link>http://dfwiki.honorlee.me/</link>
+        <url>http://dfwiki.honorlee.me/lib/tpl/codowik-master/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?id=start&amp;rev=1438071914&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-28T16:25:14+08:00</dc:date>
+        <dc:creator>wikimanager</dc:creator>
+        <title>start</title>
+        <link>http://dfwiki.honorlee.me/doku.php?id=start&amp;rev=1438071914&amp;do=diff</link>
+        <description>----------
+
+
+
+　　欢迎来到Dwarf Fortress 矮人要塞中文Wiki，这是一个为&quot;Dwarf Fortress&quot;玩家提供用户指南、资料信息以及游戏建议的地方。矮人要塞是由Bay 12 Games开发的一个基于Windows、Linux和Mac等多操作系统平台下的Roguelike类游戏,，它有要塞和冒险两种游戏模式,不同的游戏模式都将会随机生成与众不同的独立世界（包括完整的地形、种类众多的生物以及各种各样的世界历史与传说）。当然，更少不了为战斗而生的恐怖生物和无处不在的以嗜酒与挖坑著称的小矮子们...详细介绍
+
+中文WIKI主要维护人员：
+Lamphare、Defdef‏‎、HonorLee……
+DF最新版本下载：  
+v0.34.11(更新日志)　　懒人包：Lazy Newb Pack Advanced r45-简介　　Masterwork v.4g-简介
+SoundSense r43 (Soundpack)-简介　
+DFHack r3-简介　…</description>
+    </item>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?id=%E7%9F%AE%E4%BA%BA%E8%A6%81%E5%A1%9E&amp;rev=1388414787&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-30T22:46:27+08:00</dc:date>
+        <dc:creator>honorlee</dc:creator>
+        <title>矮人要塞</title>
+        <link>http://dfwiki.honorlee.me/doku.php?id=%E7%9F%AE%E4%BA%BA%E8%A6%81%E5%A1%9E&amp;rev=1388414787&amp;do=diff</link>
+        <description>引言
+
+
+　　Dwarf Fortress(以下简称DF)，最新更新版本全名为“Slave to Armok:God of Blood Chapter II:Dwarf Fortress”。
+
+　　DF是一款有着奇异背景的城镇建设/Roguelike双模式游戏。相对于其他相同类型的游戏来说，DF有着更高的自由度、游戏性与上手难度。鉴于此，“Bad End”则是游戏中最常见的结局，以至于很多玩家都将“Losing is fun(以失败为乐)”奉为享用DF的名言至理。
+
+　　本游戏支持Windows XP及以上、各发行版Linux或Mac OS等操作系统平台。虽然游戏的运行对系统配置要求并不高,但是在游戏进行时会占用大量CPU(仅支持单线程运算)和内存资源,若计算机配置其中两者太过落后的话会影响游戏的玩赏体验。更重要的是，平滑地享乐游戏对于中文玩家的英文水平有一定要求，最起码能够明白游戏内一些基础文本的意义，那样才能带给玩家较好的游戏体验并享乐其中。至于物品名、矿藏等那些专用名词，DF中文研究会QQ群内成员及WIKI成员会进行相关资料的整理翻译。
+
+　　Dwarf Fortress自200…</description>
+    </item>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?image=tradetime.jpg&amp;ns=&amp;rev=1388414137&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-30T22:35:37+08:00</dc:date>
+        <dc:creator>honorlee</dc:creator>
+        <title>tradetime.jpg - 创建</title>
+        <link>http://dfwiki.honorlee.me/doku.php?image=tradetime.jpg&amp;ns=&amp;rev=1388414137&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/lib/exe/fetch.php?w=403&amp;h=316t=1415862531&amp;amp;tok=c2c0a5&amp;amp;media=tradetime.jpg&quot; alt=&quot;tradetime.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?image=mapselect.png&amp;ns=&amp;rev=1388407510&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-30T20:45:10+08:00</dc:date>
+        <dc:creator>honorlee</dc:creator>
+        <title>mapselect.png - 创建</title>
+        <link>http://dfwiki.honorlee.me/doku.php?image=mapselect.png&amp;ns=&amp;rev=1388407510&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/lib/exe/fetch.php?w=500&amp;h=254t=1415862531&amp;amp;tok=5bc7f6&amp;amp;media=mapselect.png&quot; alt=&quot;mapselect.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?image=game_title.png&amp;ns=&amp;rev=1388407454&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-30T20:44:14+08:00</dc:date>
+        <dc:creator>honorlee</dc:creator>
+        <title>game_title.png - 创建</title>
+        <link>http://dfwiki.honorlee.me/doku.php?image=game_title.png&amp;ns=&amp;rev=1388407454&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/lib/exe/fetch.php?w=500&amp;h=254t=1415862531&amp;amp;tok=57f385&amp;amp;media=game_title.png&quot; alt=&quot;game_title.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://dfwiki.honorlee.me/doku.php?image=wiki%3Agame_movie_miner.jpg&amp;ns=wiki&amp;rev=1388379443&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-12-30T12:57:23+08:00</dc:date>
+        <dc:creator>honorlee</dc:creator>
+        <title>wiki:game_movie_miner.jpg - 元数据已编辑</title>
+        <link>http://dfwiki.honorlee.me/doku.php?image=wiki%3Agame_movie_miner.jpg&amp;ns=wiki&amp;rev=1388379443&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/lib/exe/fetch.php?w=500&amp;h=186t=1415862531&amp;amp;tok=2a349d&amp;amp;media=wiki:game_movie_miner.jpg&quot; alt=&quot;wiki:game_movie_miner.jpg&quot; /&gt;</description>
+    </item>
+</rdf:RDF>
